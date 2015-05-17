@@ -1,0 +1,14 @@
+docker-ubuntu-oracle-jdk7
+=========================
+
+Base docker image with Ubuntu 14.04 and Oracle JDK 7
+
+Usage
+-----
+
+To create the image `ubuntu-oracle-jdk7`, execute the following command:
+
+	docker build -t ubuntu-oracle-jdk7 .
+
+
+
